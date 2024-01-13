@@ -1,5 +1,5 @@
 # Creating Jarvis powered by OpenAI and Python | ChatGPT
-This repo is part of Assignment #01 - JAVIS the Iron Man's Assistant from 01219493 Generative AI & App Dev Course, Department of Computer Engineering, Kasetsart University.
+This repo is for Assignment #01 - JARVIS the Iron Man's Assistant from 01219493 Generative AI & App Dev Course, Software and Knowledge Engineering, Kasetsart University.
 
 ## How to install and run
 1. Clone this repo
