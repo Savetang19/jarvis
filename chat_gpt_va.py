@@ -37,9 +37,9 @@ def record_text():
 
 def send_to_gpt(messages, model="gpt-3.5-turbo"):
     """Send text to GPT-3 and return response"""
-    resp = client.completions.create(
+    resp = client.chat.completions.create(
         model=model,
-        prompt=messages,
+        messages=messages,
         stop=None,
         temperature=0.5,
         max_tokens=100
